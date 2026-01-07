@@ -1,0 +1,15 @@
+Commune,Inquiry,Predictor,Outcome,Spearman_rho,p_value
+Hang Kia,Bin Density → Waste Volume,Trash Bins per 200m,Waste Volume,0.2421033275013765,0.08695790088139617
+Hang Kia,Burning Intensity → Waste Volume,Burning per 200m,Waste Volume,0.31535496195012247,0.02418920735430594
+Hang Kia,Building Density → Waste Indicators,Building Density per 200m,Waste Volume,0.1510652304370095,0.2899808358642555
+Hang Kia,Building Density → Waste Indicators,Building Density per 200m,Open Dumping per 200m,0.09815354211858043,0.4931947602944371
+Hang Kia,Building Density → Waste Indicators,Building Density per 200m,Burning per 200m,0.5028756298431213,0.00016936148116874824
+Hang Kia,Building Density → Waste Indicators,Building Density per 200m,Waste Diversity,0.5300119450004166,6.336462293422871e-05
+Hang Kia,Building Density → Waste Indicators,Building Density per 200m,Waste Disposition,0.29582012007235725,0.03506306424607155
+Mai Hich,Bin Density → Waste Volume,Trash Bins per 200m,Waste Volume,-0.05077230401477288,0.5866886505182682
+Mai Hich,Burning Intensity → Waste Volume,Burning per 200m,Waste Volume,0.19902028859779514,0.03146128486069937
+Mai Hich,Building Density → Waste Indicators,Building Density per 200m,Waste Volume,0.04563920459095246,0.6251122212543632
+Mai Hich,Building Density → Waste Indicators,Building Density per 200m,Open Dumping per 200m,0.0063913103655858835,0.9454743602262943
+Mai Hich,Building Density → Waste Indicators,Building Density per 200m,Burning per 200m,-0.03608103945191519,0.6993399201761865
+Mai Hich,Building Density → Waste Indicators,Building Density per 200m,Waste Diversity,-0.1022713446084104,0.27253806265722635
+Mai Hich,Building Density → Waste Indicators,Building Density per 200m,Waste Disposition,,
